@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EugenioBertolini
-- 👀 I’m interested in neural engineering & machine learning
-- 🌱 I’m currently learning BCI-based spelling alogorithms and CNN
-- 💞️ I’m looking to collaborate on neural engineering projects for healthy individuals, such as love interactions and low productivity syndrome (e.g. ikikomori).
+- 👀 I’m interested in neuroengineering and AI
+- 🌱 I’m currently learning calcium imaging and behavioral analysis
+- 💞️ I’m looking to collaborate on Drosophila Melanogaster adaptive motor control
 - 📫 How to reach me eugenio.bertolini@mail.polimi.it
 
 <!---
