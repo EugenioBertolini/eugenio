@@ -1,0 +1,38 @@
+# env_torchfly.yaml
+# PyTorch environment for all my projects
+# After installing, run: 'conda activate torchfly', then 'pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121'
+#
+# install: conda env create -f env_torchfly.yaml
+# update:  conda env update -f env_torchfly.yaml
+name: torchfly
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - setuptools
+  - pip:
+    - black
+    - imageio
+    - ipykernel
+    - ipython
+    - ipywidgets
+    - matplotlib
+    - numba
+    - numpy
+    - opencv-contrib-python
+    - pandas
+    - pillow
+    - plotly
+    - polars
+    - pyqt5
+    - pywavelets
+    - scikit-image
+    - scikit-learn
+    - scikit-video
+    - scipy
+    - seaborn
+    - statsmodels
+    - svgwrite
+    - tqdm

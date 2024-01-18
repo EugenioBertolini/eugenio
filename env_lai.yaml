@@ -1,0 +1,17 @@
+# env_lai.yaml
+# LightningPose environment
+# First, check to see if you have ffmpeg installed by typing the following in the terminal: 'ffmpeg -version'
+# If not, install: 'sudo apt install ffmpeg'
+#
+# install: conda env create -f env_lai.yaml
+# update:  conda env update -f env_lai.yaml
+name: lai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - setuptools
+  - pip:
+    - lightning-pose

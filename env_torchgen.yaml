@@ -1,0 +1,38 @@
+# env_torchgen.yaml
+# PyTorch environment for GenGan
+# After installing, run: 'conda activate torchgen', then 'pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121'
+#
+# install: conda env create -f env_torchgen.yaml
+# update:  conda env update -f env_torchgen.yaml
+name: torchgen
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - setuptools
+  - pip:
+    - biopython
+    - black
+    - imageio
+    - ipykernel
+    - ipython
+    - ipywidgets
+    - matplotlib
+    - numba
+    - numpy
+    - opencv-contrib-python
+    - pandas
+    - pillow
+    - plotly
+    - polars
+    - pyqt5
+    - pywavelets
+    - scikit-image
+    - scikit-learn
+    - scikit-video
+    - scipy
+    - seaborn
+    - statsmodels
+    - tqdm
