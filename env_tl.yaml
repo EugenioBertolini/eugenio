@@ -6,6 +6,7 @@
 # update:  conda env update -f env_tl.yaml
 name: tl
 channels:
+  - pytorch
   - conda-forge
   - defaults
 dependencies:
@@ -38,5 +39,8 @@ dependencies:
     - statsmodels
     - svgwrite
     - tensorflow[and-cuda]
+    - torch=2.1.2+cu121
+    - torchvision=0.16.2+cu121
+    - torchaudio=2.1.2+cu121
     - tqdm
     - typing
