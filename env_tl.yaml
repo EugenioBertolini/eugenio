@@ -1,7 +1,7 @@
 # env_tl.yaml
 #
 # PyTorch environment for all my projects
-# After installing, run: 'conda activate tl', then 'pip install --upgrade --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121'
+# After installing, run: 'conda activate tl', then 'pip install --upgrade --no-deps --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121'
 #
 # Test GPU on terminal:
 # python -c "import torch; print(torch.cuda.is_available())"
@@ -33,6 +33,7 @@ dependencies:
     - pillow
     - plotly
     - polars
+    - pyarrow
     - pyqt5
     - pywavelets
     - scikit-image
