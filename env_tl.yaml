@@ -28,6 +28,7 @@ dependencies:
     - pillow
     - plotly
     - polars
+    - pyarrow
     - pyqt5
     - pywavelets
     - scikit-image
@@ -39,7 +40,9 @@ dependencies:
     - svgwrite
     - tensorflow[and-cuda]
     - torch
-    - torchvision
     - torchaudio
+    - torchinfo
+    - torchvision
+    - torchviz
     - tqdm
     - typing
