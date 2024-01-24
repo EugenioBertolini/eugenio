@@ -20,6 +20,7 @@ dependencies:
   - pip:
     - biopython
     - black
+    - ffmpeg
     - imageio
     - ipykernel
     - ipython
@@ -43,6 +44,7 @@ dependencies:
     - seaborn
     - statsmodels
     - svgwrite
+    - tensorboardX
     - tensorflow[and-cuda]
     - torch
     - torchaudio
