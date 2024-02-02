@@ -27,6 +27,7 @@ dependencies:
     - ipywidgets
     - lightning
     - matplotlib
+    - nltk
     - numba
     - numpy
     - opencv-contrib-python
