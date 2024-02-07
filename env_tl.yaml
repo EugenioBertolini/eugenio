@@ -28,6 +28,7 @@ dependencies:
     - ipywidgets
     - lightning
     - matplotlib
+    - mypy
     - nltk
     - numba
     - numpy
