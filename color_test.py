@@ -1,6 +1,6 @@
 import matplotlib
 
-matplotlib.use("Qt5Agg")  # Use TkAgg or TkCairo backend
+matplotlib.use("TkAgg")  # Use TkAgg or TkCairo backend
 import matplotlib.pyplot as plt
 from enum import Enum
 
