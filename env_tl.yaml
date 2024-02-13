@@ -38,8 +38,6 @@ dependencies:
     - plotly
     - polars
     - pyarrow
-    - pycairo  # apt install pkg-config, build-essential, cairo and libcairo2-dev
-    - PyGObject  # apt install libgirepository1.0-dev
     - pyqt5
     - pywavelets
     - scikit-image
