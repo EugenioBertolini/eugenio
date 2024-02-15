@@ -1,3 +1,4 @@
+import numpy as np
 import matplotlib
 
 matplotlib.use("TkAgg")  # Use TkAgg backend
@@ -16,6 +17,10 @@ class Color(Enum):
 
 # Main function to plot a "Happy Birthday" graph
 def main():
+
+    x = np.linspace(-10, 10, 1001)
+    s = np.sinc(x)
+
     # Create a figure and axis with specified figure size
     fig, ax = plt.subplots(figsize=(10, 6))
 
@@ -26,8 +31,8 @@ def main():
     for i, color in enumerate(Color, start=1):
         # Adjust the line positions so they are visible in the plot
         ax.plot(
-            [i * 0.1 - 0.05, i * 0.1 + 0.05],
-            [abs(i * 0.01 - 0.03), abs(i * 0.01 - 0.03)],
+            [i * 5 - 10, i * 5 + 10],
+            [abs(i * 0.2), abs(i * 0.2)],
             color=color.value,
             linewidth=4,
         )
@@ -43,6 +48,8 @@ def main():
         va="center",
         transform=ax.transAxes,
     )
+
+    ax.plot(x, s, "--b", linewidth=5)
 
     # Display the plot
     plt.show()
