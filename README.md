@@ -1,10 +1,10 @@
-### Ciao!! I'm Eugenio Bertolini! 👋 Welcome to My GitHub Profile!
+# Ciao!! I'm Eugenio Bertolini! 👋 Welcome to My GitHub Profile!
 
-## About Me
+# About Me
 
 I'm Eugenio Bertolini, a passionate student-researcher in Neuroscience from Reggio Emilia, Italy, currently exploring the complexities of neural circuits and behavior at RIKEN in Tokyo, Japan. My journey is a blend of engineering and science, as I navigate through my PhD at the University of Tokyo, with ambitions of unraveling the mysteries of the brain through statistics, machine learning, and deep learning.
 
-## Summary
+# Summary
 
 - 🔬 **Field of Study:** Neuroscience, focusing on Drosophila Melanogaster at RIKEN's lab of adaptive motor control.
 - 🎓 **Background:** Master's in Biomedical Engineering, diving deep into biomedicine and neuroscience applications.
@@ -18,7 +18,7 @@ Join me as I document my academic adventures, project developments, and learning
 
 # Verbose Introduction 
 
-## BEWARE! Continue reading at your own risk.
+### BEWARE! Continue reading at your own risk.
 
 I hail from Reggio Emilia, Italy, but have made my way to Tokyo, Japan, where I'm immersing myself in the fascinating world of Neuroscience as a student-researcher at RIKEN, specifically in the lab of adaptive motor control. Our research focuses on the fruit fly Drosophila Melanogaster, through which I am exploring the intricacies of neural circuits and behavior, all while pursuing a PhD at the University of Tokyo, expected to graduate in 2027.
 
