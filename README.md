@@ -37,7 +37,7 @@ After gaining valuable experience in experimental research, I'm eager to pivot t
 #### 📫 How to Reach Me
 Feel free to reach out at eugenio.bertolini@mail.polimi.it for collaborations, academic opportunities, or simply to exchange ideas on neuroscience, statistics, or any intriguing topic.
 
-#### 🏞 Personal Touch
+#### 🏞 Personal
 When I'm not buried in research or coding, I follow my heart through various sports, finding my way back to hiking, mountain climbing, football, and running. I also dabble in playing the piano, embracing the challenge since 2022. Traveling fuels my soul, with dreams of exploring the landscapes of Chile, Argentina, Southeast Asia, and Iran.
 
 Let's connect and explore the limitless possibilities of science and technology together!
