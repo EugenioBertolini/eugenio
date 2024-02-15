@@ -1,4 +1,23 @@
-### Hi there, I'm Eugenio Bertolini! 👋
+### Ciao!! I'm Eugenio Bertolini! 👋 Welcome to My GitHub Profile!
+
+## About Me
+
+I'm Eugenio Bertolini, a passionate student-researcher in Neuroscience from Reggio Emilia, Italy, currently exploring the complexities of neural circuits and behavior at RIKEN in Tokyo, Japan. My journey is a blend of engineering and science, as I navigate through my PhD at the University of Tokyo, with ambitions of unraveling the mysteries of the brain through statistics, machine learning, and deep learning.
+
+## Summary
+
+- 🔬 **Field of Study:** Neuroscience, focusing on Drosophila Melanogaster at RIKEN's lab of adaptive motor control.
+- 🎓 **Background:** Master's in Biomedical Engineering, diving deep into biomedicine and neuroscience applications.
+- 💻 **Skills:** Proficient in Python, with a knack for machine learning, deep learning, and embedded systems.
+- 🌟 **Interests:** Aspiring to become a professor in biomedical or neural statistics, with a keen interest in politics and human behavior.
+- 🛠 **Projects:** From developing biomedical tools to working on cutting-edge neuroscience research projects, my GitHub journey is just beginning.
+- 📚 **Learning:** Currently enhancing my skills in WSL, vim keybindings, and reinforcement learning, among others.
+- 🌍 **Personal:** A sports enthusiast, occasional piano player, and an avid traveler dreaming of exploring diverse cultures and landscapes.
+
+Join me as I document my academic adventures, project developments, and learning progress here on GitHub. Let's connect and explore the fascinating intersection of technology and neuroscience!
+
+## Verbose Introduction 
+#### BEWARE! Continue reading at your own risk.
 
 I hail from Reggio Emilia, Italy, but have made my way to Tokyo, Japan, where I'm immersing myself in the fascinating world of Neuroscience as a student-researcher at RIKEN, specifically in the lab of adaptive motor control. Our research focuses on the fruit fly Drosophila Melanogaster, through which I am exploring the intricacies of neural circuits and behavior, all while pursuing a PhD at the University of Tokyo, expected to graduate in 2027.
 
