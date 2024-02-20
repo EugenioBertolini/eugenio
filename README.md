@@ -9,7 +9,7 @@ I'm Eugenio Bertolini, a passionate student-researcher in Neuroscience from Regg
 - 🔬 **Field of Study:** Neuroscience, focusing on Drosophila Melanogaster at RIKEN's lab of adaptive motor control.
 - 🎓 **Background:** Master's in Biomedical Engineering, diving deep into biomedicine and neuroscience applications.
 - 💻 **Skills:** Proficient in Python, with a knack for machine learning, deep learning, and embedded systems.
-- 🌟 **Interests:** Aspiring to become a professor in neural statistics (or something like that), with a keen interest in human behavior and politics.
+- 🌟 **Interests:** Aspiring to become a professor in neural statistics (or something like that), with a keen interest in animal and human behavior, and politics.
 - 🛠 **Projects:** From developing biomedical tools to working on cutting-edge neuroscience research projects, my GitHub journey is just beginning.
 - 📚 **Learning:** Currently enhancing my skills in neuroscience, reinforcement learning, and Linux, among others.
 - 🌍 **Personal:** A sports enthusiast, occasional piano player, and an avid traveler dreaming of exploring diverse cultures and landscapes.
@@ -23,10 +23,10 @@ Join me as I document my academic adventures, project developments, and learning
 I hail from Reggio Emilia, Italy, but have made my way to Tokyo, Japan, where I'm immersing myself in the fascinating world of Neuroscience as a student-researcher at RIKEN, specifically in the lab of adaptive motor control. Our research focuses on the fruit fly Drosophila Melanogaster, through which I am exploring the intricacies of neural circuits and behavior, all while pursuing a PhD at the University of Tokyo, expected to graduate in 2027.
 
 #### 💼 Professional Interests and Expertise
-With a Master's degree in Biomedical Engineering, my expertise lies in the realm of statistics, machine learning, and deep learning, with a particular focus on their applications in biomedicine and neuroscience. I am proficient in Python and have experience in embedded systems, enabling me to tackle complex challenges in these fields. My ultimate goal is to become a professor in something like biomedical or neural statistics, driven by my belief in neuroscience's potential to unravel the mysteries of human behavior.
+With a Master's degree in Biomedical Engineering, my expertise lies in the realm of statistics, machine learning, and deep learning, with a particular focus on their applications in biomedicine and neuroscience. I am proficient in Python and have experience in embedded systems, enabling me to tackle complex challenges in these fields. My ultimate goal is to become a professor in something like biomedical or neural statistics, driven by my belief in neuroscience's potential to unravel the mysteries of animal and human behavior.
 
 #### 🛠 Projects and Contributions
-While new to GitHub, I've embarked on several projects, including developing a tool to estimate energy expenditure from physiological biosignals (not published), working on auditory BCI tasks with fNIRS and EEG (not published), and creating a benchmark platform for calcium event detection with a GUI developed in TK (private repo for now). Currently, I'm working on projects related to decision-making principles in flies and generating synthetic human genomes, but I can't say much about those for now.
+While new to GitHub, I've embarked on several projects, including developing a tool to estimate energy expenditure from physiological biosignals, working on auditory BCI tasks with fNIRS and EEG (not published), and creating a benchmark platform for calcium event detection with a GUI developed in TK (private repo for now). Currently, I'm working on 2 projects, one related to decision-making principles in flies and the other on generating synthetic human genomes, but I can't say much about these for now.
 
 #### 📚 Learning and Development
 I'm constantly seeking to enhance my skills, currently delving into Linux, dotfiles, tools for building from source, and deepening my understanding of neuroscience, neural networks, and reinforcement learning. My background in Biomedical Engineering, focusing on biomedical devices and analysis, lays the foundation for my research and academic aspirations.
