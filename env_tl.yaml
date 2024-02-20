@@ -1,6 +1,7 @@
 # env_tl.yaml
 #
 # PyTorch environment for all my projects
+# After installing, run: 'conda activate tl', then 'pip install --upgrade --no-deps --force-reinstall torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu121'
 # After installing, run: 'conda activate tl', then 'pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.1.0+cu121.html'
 #
 # Test GPU on terminal:
