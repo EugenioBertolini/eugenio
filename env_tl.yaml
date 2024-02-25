@@ -29,11 +29,13 @@ dependencies:
       - lightning
       - matplotlib
       - mypy
+      - neovim
       - nltk
       - numba
       - numpy
       - opencv-contrib-python
       - pandas
+      - pandas-stubs
       - pillow
       - plotly
       - polars
