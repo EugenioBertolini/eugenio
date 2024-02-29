@@ -22,7 +22,6 @@ dependencies:
       - biopython
       - black
       - Bottleneck
-      - data-science-types
       - ffmpeg
       - imageio
       - ipykernel
