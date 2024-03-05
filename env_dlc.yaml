@@ -8,8 +8,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.8
   - pip
-  - setuptools
+  - jupyter
+  - nb_conda
+  - ffmpeg
   - pip:
-    - "deeplabcut[gui,tf]"
+      - "deeplabcut[tf,gui]==2.2.3"
