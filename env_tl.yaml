@@ -22,6 +22,8 @@ dependencies:
       - biopython
       - black
       - Bottleneck
+      - catppuccin
+      - catppuccin-matplotlib
       - ffmpeg
       - imageio
       - ipykernel
