@@ -11,4 +11,4 @@ dependencies:
   - python=3.9
   - pip
   - pip:
-      - "deeplabcut[gui]==2.2.3"
+      - "deeplabcut[gui,tf]"
