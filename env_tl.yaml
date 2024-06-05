@@ -29,6 +29,7 @@ dependencies:
       - ipykernel
       - ipython
       - ipywidgets
+      - jax[cuda12] # new JAX from google
       - lightning
       - matplotlib
       - mypy
